@@ -1,0 +1,14 @@
+This excel dataset contains various demographics and information of the individuals which is as follows: 
+ID - Unique values.
+Marital Status - M (married) & S (single).
+Gender - M (male) & F (female).
+Income - Ranging from $10,000 to $170,000.
+Children - From 0 to 5.
+Education - Bachelors, Partial College, High School, Partial High School & Graduate Degree.
+Occupation - Skilled Manual, Clerical, Professional, Manual & Management.
+Home Owner - Yes, No. 
+Cars - From 0 to 4.
+Commute Distance -  0-1 Miles, 1-2 Miles, 2-5 Miles, 5-10 Miles & 10 Miles+.
+Region - Europe, North America & Pacific.
+Age - Varying from 25 - 89.
+Purchased Bike - Yes & No.
