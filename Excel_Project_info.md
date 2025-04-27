@@ -12,3 +12,5 @@ Commute Distance -  0-1 Miles, 1-2 Miles, 2-5 Miles, 5-10 Miles & 10 Miles+.
 Region - Europe, North America & Pacific.
 Age - Varying from 25 - 89.
 Purchased Bike - Yes & No.
+
+Removed Duplicates from the dataset, changed values to be more user friendly, added column for more ease to use for pivot table and dashboard.
